@@ -16,7 +16,6 @@ I don’t just build websites — I craft experiences that *move*, *feel smooth*
 * 🌱 Currently exploring **Backend (Node.js, MySQL)** while going deeper into **advanced frontend motion**.
 * 🎬 I care a lot about **animations, transitions, timing, and audio clarity** — small details matter.
 * ⚙️ Love working where **logic + design + performance** meet.
-* 🐘 Strong interest in **Java & Python**, focusing on simple, human‑readable, real‑world code.
 * 🎯 Long‑term aim: become a **complete Full‑Stack Engineer** who can build, polish, and ship end‑to‑end products.
 
 ---
