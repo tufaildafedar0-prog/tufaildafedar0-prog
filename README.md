@@ -46,7 +46,6 @@ I don’t just build websites — I craft experiences that *move*, *feel smooth*
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge\&logo=netlify\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 
 > Bonus: I actively test **audio pipelines, FFmpeg encoders, browser audio behavior, and screen‑capture sound quality** for clean demos.
 
