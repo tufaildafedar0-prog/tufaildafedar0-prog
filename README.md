@@ -81,13 +81,13 @@ I don’t just build websites — I craft experiences that *move*, *feel smooth*
 ## 🌍 Let’s Connect
 
 <p align="center">
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/in/tufailhasan3241/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://tufaildafedar0-prog.github.io/React-Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:tufaildafedar0@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
